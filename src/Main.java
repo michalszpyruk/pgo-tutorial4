@@ -9,7 +9,7 @@ public class Main {
 
         Address address = new Address();
 
-        List<Integer> intList = new ArrayList<>(5);
+        List<Integer> intList = new ArrayList<>();
         intList.add(5);
         intList.add(10);
         intList.add(15);
